@@ -25,7 +25,7 @@ crudRoutes.route('/').get((req, res) => {
     Crud.find((err, results) => {
         if (err) console.log(err);
         else res.json(results);
-    });
+    }).sort({"term":1});
 });
 
 crudRoutes.route('/:id').get((req, res) => {
