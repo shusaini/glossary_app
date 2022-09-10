@@ -1,6 +1,7 @@
 # How to run this app
 ### Setup your MongoDB with GlossoryDB database
 ### Go to backend directory and run `node server.js` to start the backend server
+The backend server will run on port 4000
 
 # Getting Started with Create React App
 
