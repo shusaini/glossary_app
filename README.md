@@ -1,3 +1,7 @@
+# How to run this app
+### Setup your MongoDB with GlossoryDB database
+### Go to backend directory and run `node server.js` to start the backend server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
